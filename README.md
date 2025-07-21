@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya
 
-<!--
-**adityaupadhyay0/adityaupadhyay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building meaningful software. I enjoy working with various technologies and continuously learning to improve my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, Python, Go, C++
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express, Go
+- **Databases**: MongoDB, PostgreSQL, SQLite
+- **Tools**: Git, Docker, Webpack, Jest
+
+---
+
+## 📊 GitHub Stats
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaupadhyay0&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaupadhyay0&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaupadhyay0&theme=radical)
+
+![Aditya's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaupadhyay0&theme=github)
+
+---
+
+## 📈 Activity & Contributions
+
+![Aditya's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaupadhyay0&theme=github)
+
+---
+
+
+> ⚡ "Code is the clearest reflection of your thought process — I try to keep both clean."
