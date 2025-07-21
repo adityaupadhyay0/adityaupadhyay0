@@ -20,7 +20,7 @@ I'm a developer passionate about building meaningful software. I enjoy working w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaupadhyay0&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adityaupadhyay0)](https://git.io/streak-stats)
 
 ![Aditya's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaupadhyay0&theme=github)
 
