@@ -22,7 +22,8 @@ I'm a developer passionate about building meaningful software. I enjoy working w
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adityaupadhyay0)](https://git.io/streak-stats)
 
-![Aditya's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityaupadhyay0&theme=github)
+![Aditya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityaupadhyay0&theme=github)
+
 
 ---
 
